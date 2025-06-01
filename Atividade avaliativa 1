@@ -1,0 +1,83 @@
+# Atividades-Complementares-I
+
+# Atividades-Complementares-I
+
+1. Introdução
+ 
+Olá! Este README descreve como eu, realizei as conversões de unidades solicitadas. Aqui explico cada passo que segui, as ferramentas que usei e como cheguei aos resultados.
+
+Objetivos
+Converter 2,5 km para metros.
+
+Converter 3 200 mg para gramas.
+
+Converter 0,000005 m para micrômetros (µm).
+
+Converter 4,7 × 10⁶ bytes para a unidade com prefixo mais adequado (notação de engenharia).
+
+2. Materiais e Ferramentas
+Antes de começar, anotei tudo o que iria precisar. Eis a lista:
+
+Calculadora
+
+Pode ser aquela física ou o app no celular/computador que aceite notação científica.
+
+Pesquisei os múltiplos e submúltiplos (kilo, mega, micro, mili etc.).
+
+Exemplo:
+
+kilo (k) → 10³
+
+mega (M) → 10⁶
+
+micro (µ) → 10⁻⁶
+
+mili (m) → 10⁻³
+
+1 km = 1 000 m
+
+1 m = 10³ mm = 10⁶ µm
+
+1 g = 10³ mg
+
+
+Folha de Papel ou Caderno + Caneta
+
+Para anotar cada etapa do cálculo à mão.
+
+Referência de Notação de Engenharia para Bytes
+
+Um material que explique como usar prefixos SI (kilo, mega, giga) para unidades de informação.
+
+Eu decidi usar “mega” (M) para converter bytes.
+
+
+3. Um fio possui 2,5 km de comprimento. Converta esse valor para metros:
+ 
+   1 km = 1 000 m
+   
+   Resposta: 2,5 km x 1000 = 2500 metros
+
+4.Um frasco contém 3.200 mg de substância. Quantos gramas isso representa?
+
+1 g = 1 000 mg.
+
+Resposta: 3200 mg / 1000 = 3,2 g
+
+5. Uma célula tem 0,000005 m de diâmetro. Expresse essa medida em micrômetros (μm).
+
+Resposta: 0,000005 m x 1.000.000 μm/m = 5 μm. 
+
+6.Converta 4,7 × 106 bytes para a unidade com prefixo mais adequado (use notação de engenharia).
+
+1 kilobyte (KB) = 10³ bytes
+
+1 megabyte (MB) = 10³ kilobytes
+
+1 gigabyte (GB) = 10³ megabytes 
+
+1 terabyte (TB) = 10³ gigabytes
+
+Resposta: 4,7 × 10⁶ bytes = 4,7 MB
+
+​
